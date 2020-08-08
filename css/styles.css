@@ -1,0 +1,80 @@
+/*website body and font-family*/
+
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+/*top-card styles*/
+
+.card1{
+    background-color: #efb5a3;
+}
+
+#img{
+    width: 200px;
+    border-style: solid;
+    border-color: #155570;
+    border-width: 5px;
+    border-radius: 500px;
+}
+
+p{
+    line-height: 2;
+    color: #093c53;
+    padding: 15px;
+}
+
+h1{
+    color: white;
+
+}
+
+h3{
+    color: #145675;
+}
+
+/*middle-card styles*/
+
+.card2{
+    background-color: #f57e7e;
+}
+
+h2{
+    padding-left: 20px;
+    color: white;
+    text-align: center;
+}
+
+h3{
+    color: #145675;
+}
+
+h4{
+    color: #064c6d;
+}
+
+li{
+    padding: 20px;
+    color: #053a53;
+}
+
+/*footer-card*/
+
+.card3{
+    background-color: #315f72;
+}
+.card-body1{
+    text-align: center;
+}
+
+.copyright{
+    font-size: 0.75rem;
+    text-align: center;
+    color: white;
+}
+
+.copyright:hover{
+    color: rgb(240, 73, 44);
+}
